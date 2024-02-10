@@ -13,3 +13,9 @@ Welcome to the Restaurant Point Of Sale (POS) System project! This system is des
 - **Table Management:**
   - Assign tables, track occupancy, and manage reservations.
 
+- **Payment Processing:**
+  - Accept various payment methods including cash, card, and digital wallets.
+
+- **Inventory Tracking:**
+  - Monitor stock levels and receive alerts for low inventory items.
+

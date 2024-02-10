@@ -19,3 +19,9 @@ Welcome to the Restaurant Point Of Sale (POS) System project! This system is des
 - **Inventory Tracking:**
   - Monitor stock levels and receive alerts for low inventory items.
 
+## Technologies Used
+
+- **Frontend:**
+  - HTML, CSS, JavaScript
+  - [Specify any frontend framework or library used]
+

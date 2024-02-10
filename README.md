@@ -7,3 +7,9 @@ Welcome to the Restaurant Point Of Sale (POS) System project! This system is des
 - **Order Management:**
   - Create, modify, and track orders seamlessly.
 
+- **Menu Management:**
+  - Easily update and customize the restaurant menu.
+
+- **Table Management:**
+  - Assign tables, track occupancy, and manage reservations.
+

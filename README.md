@@ -23,5 +23,4 @@ Welcome to the Restaurant Point Of Sale (POS) System project! This system is des
 
 - **Frontend:**
   - HTML, CSS, JavaScript
-  - [Specify any frontend framework or library used]
 
